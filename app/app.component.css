@@ -1,0 +1,14 @@
+  .jumbotron{
+                box-shadow: 0 20px 0 rgba(0,0,0,0.2);
+                height: 300px;
+            }
+  .users-list li{
+              cursor:       pointer;
+            }
+  .jumbotron .glyphicon{
+              font-size:    80px;
+            }
+  /*.gocrazy{
+              background:   #6CC9C8 ;
+              color:        #fff;
+            }*/
